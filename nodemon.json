@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW": "Rana",
+        "jwt_key": "secretkey123"
+
+    }
+}
